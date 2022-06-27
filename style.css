@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: auto;
+    padding: 0;
+}
+h1{
+    font-size: 60px;
+}
+h3{
+    font-size: 36px;
+    padding-left: 230px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+table{
+    table-layout: fixed;
+    padding-left: 200px;
+    padding-right: 200px;
+    width: 100%;
+    border: 1px solid #444444;
+}
+th{
+    background-color: #c9c9c9;
+    color: #424242;
+    font-size: 24px;
+}
+td{
+    vertical-align: top;
+    height: 150px;
+    text-align: left;
+    padding-left: 5px;
+    background-color: rgb(230, 230, 230);
+}
+.blank{
+    background-color: white;
+}
+.dayName,.dDay
+{
+    margin: 0px;
+    font-weight: bold;
+}
+.dDay{
+    color: rgb(255, 43, 43);
+}
